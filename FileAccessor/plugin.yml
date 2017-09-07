@@ -1,0 +1,12 @@
+name: FileAccessor
+main: io.github.skepter.fileaccessor.FileAccessorPlugin
+version: 1.0
+description: Stores blocks to a file and turns them to gold blocks
+author: Skepter
+website: http://skepter.github.io/
+
+commands:
+  saveblocks:
+    description: none
+  getblocks:
+    description: none
