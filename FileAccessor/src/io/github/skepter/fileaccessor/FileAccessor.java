@@ -11,11 +11,13 @@ import org.bukkit.plugin.java.JavaPlugin;
 
 /**
  * Class to store and retrieve information from a file
- * 
+ * @see https://github.com/Skepter/FileAccessor
  * @author Skepter
  *
  * @param <T>
- *            The type of object to store to a file
+ *            The type of object to store to a file, for example a Block
+ *            
+ *            
  */
 public abstract class FileAccessor<T> {
 
